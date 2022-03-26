@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+### Stuff Added by Me ###
+
+# The dataset at https://nijianmo.github.io/amazon/index.html#subsets
+data/*
